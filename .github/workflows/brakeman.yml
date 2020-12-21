@@ -13,4 +13,4 @@ jobs:
           brakeman_version: 5.0.0.pre1
           github_token: ${{ secrets.github_token }}
           reporter: webhook
-          webhook_url: http://70c7e133d7b2.ngrok.io/webhooks/scan
+          webhook_url: http://3361ad40b279.ngrok.io/webhooks/scan
