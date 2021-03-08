@@ -3,7 +3,7 @@
     {
       "class": "stored-secrets",
       "rules": {
-        "private-key": "block"
+        "private-key": "alert"
       }
     }
   ]
